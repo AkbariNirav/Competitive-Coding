@@ -1,3 +1,6 @@
+/* We can also use the formula for the handshake
+  Number of handshake = n(n-1)/2 i.e. n choose 2 */
+
 #include <iostream>
 #include <algorithm>
  
